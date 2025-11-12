@@ -4,11 +4,11 @@ Current Date and Time: 2025-01-27 19:18:15 UTC | User: Om Raj Singh
 
 ---
 
-## 🚀 Technology & Links
+##  Technology & Links
 
 🇮🇳 [PM Internship Scheme - Government of India](https://pminternship.mca.gov.in/)
 
-💻 Tech Stack:
+ Tech Stack:
 
 - [Python 3.8+](https://python.org) - Backend Development
 - [Flask 2.0+](https://flask.palletsprojects.com/) - Web Framework
@@ -17,40 +17,40 @@ Current Date and Time: 2025-01-27 19:18:15 UTC | User: Om Raj Singh
 - [Scikit-Learn](https://scikit-learn.org/) - Machine Learning
 - [TF-IDF Algorithm](https://en.wikipedia.org/wiki/Tf%E2%80%93idf) - Recommendation Engine
 
-🏆 Project Status: [Hackathon Ready](https://github.com/Om Raj Singh) ✅
+ Project Status: [Hackathon Ready](https://github.com/Om Raj Singh) 
 
-## 🎯 Project Overview
+##  Project Overview
 
 An intelligent recommendation system for the Prime Minister's Internship Scheme that matches students with relevant internship opportunities based on their educational background, skills, and preferences. Built for hackathon excellence with real-world application potential.
 
-## ✨ Key Features
+##  Key Features
 
-### 🎓 Smart Education-Based Matching
+###  Smart Education-Based Matching
 
 - 12+ Education Fields supported (Computer Science, Mechanical, Civil, Commerce, etc.)
 - Dynamic skill suggestions based on selected field
 - Field-specific internship recommendations
 
-### 🤖 AI-Powered Recommendation Engine
+###  AI-Powered Recommendation Engine
 
 - TF-IDF Algorithm for intelligent matching
 - Multi-criteria filtering (location, stipend, skills)
 - Personalized scoring system
 
-### 🏢 Comprehensive Database
+###  Comprehensive Database
 
 - 200+ PM Internship opportunities
 - 50+ Top Indian companies (TCS, Infosys, Google, Microsoft, Tata Motors, etc.)
 - Real company career page integrations
 
-### 🎨 Professional UI/UX
+###  Professional UI/UX
 
 - Responsive design for all devices
 - Government PM Scheme branding
 - Interactive skill selection
 - Real-time form validation
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 ### Backend
 
@@ -74,7 +74,7 @@ An intelligent recommendation system for the Prime Minister's Internship Scheme 
 - Real company URLs - Direct career page links
 - Government portal integration
 
-## 📁 Project Structure
+<!-- ##  Project Structure
 
 ```
 pm-internship-engine/
@@ -90,9 +90,9 @@ pm-internship-engine/
 ├── data/
 │   └── internship.csv        # Internship database (200+ records)
 └── README.md                 # Project documentation
-```
+``` -->
 
-## 🚀 Quick Start
+##  Quick Start
 
 ### Prerequisites
 
@@ -134,7 +134,7 @@ cd ../frontend
 - Frontend: `http://localhost:3000` (or your live server port)
 - Backend API: `http://localhost:5000`
 
-## 🎯 How It Works
+##  How It Works
 
 ### 1. User Input
 
@@ -182,29 +182,29 @@ cd ../frontend
 - Media: Times of India, Hindustan Times, NDTV
 - E-commerce: Flipkart, Zomato, Swiggy, BigBasket
 
-## 🏆 Hackathon-Ready Features
+##  Hackathon-Ready Features
 
 ### Technical Excellence
 
-- ✅ Full-stack implementation (Frontend + Backend + AI)
-- ✅ RESTful API design
-- ✅ Machine learning integration
-- ✅ Responsive UI/UX
-- ✅ Error handling & validation
+-  Full-stack implementation (Frontend + Backend + AI)
+-  RESTful API design
+-  Machine learning integration
+-  Responsive UI/UX
+-  Error handling & validation
 
 ### Business Impact
 
-- ✅ Real-world problem solving (PM Internship Scheme)
-- ✅ Government initiative alignment
-- ✅ Scalable architecture
-- ✅ Industry partnerships potential
+-  Real-world problem solving (PM Internship Scheme)
+-  Government initiative alignment
+-  Scalable architecture
+-  Industry partnerships potential
 
 ### Innovation
 
-- ✅ Dynamic skill matching by education field
-- ✅ Multi-criteria recommendation algorithm
-- ✅ Real company integration
-- ✅ Government portal connectivity
+-  Dynamic skill matching by education field
+-  Multi-criteria recommendation algorithm
+-  Real company integration
+-  Government portal connectivity
 
 ## 🔧 API Endpoints
 
@@ -237,7 +237,7 @@ Response:
 }
 ```
 
-## 🎨 UI/UX Highlights
+##  UI/UX Highlights
 
 - Government branding with orange/saffron color scheme
 - Interactive skill tags with hover effects
@@ -246,7 +246,7 @@ Response:
 - Mobile-responsive design
 - Professional card layouts for recommendations
 
-## 🚀 Future Enhancements
+##  Future Enhancements
 
 - [ ] User authentication system
 - [ ] Save/bookmark internships
@@ -256,7 +256,7 @@ Response:
 - [ ] Email notifications
 - [ ] Mobile app development
 
-## 🤝 Contributing
+##  Contributing
 
 1. Fork the repository
 2. Create your feature branch (`git checkout -b feature/amazing-feature`)
@@ -264,11 +264,11 @@ Response:
 4. Push to the branch (`git push origin feature/amazing-feature`)
 5. Open a Pull Request
 
-## 📄 License
+##  License
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
-## 👨‍💻 Developer
+##  Developer
 
 Shreyas Raut (@Om Raj Singh)
 
@@ -276,7 +276,7 @@ Shreyas Raut (@Om Raj Singh)
 - 🏛️ Supporting Government of India's PM Internship Scheme
 - 🚀 Building technology for social impact
 
-## 🙏 Acknowledgments
+##  Acknowledgments
 
 - Government of India - PM Internship Scheme initiative
 - Ministry of Corporate Affairs - Official program support
@@ -289,8 +289,8 @@ Shreyas Raut (@Om Raj Singh)
 
 This project aligns with the Government of India's vision of empowering youth through technology and creating employment opportunities for the digital age.
 
-Built with ❤️ for India's future workforce
+Built with  for India's future workforce
 
 ---
 
-🏆 Ready to change the future of internships in India! 🚀
+ Ready to change the future of internships in India! 
